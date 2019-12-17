@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:1-101:12
+MERGED from [:libpassport] C:\Users\User\AndroidStudioProjects\TssDemoV2-master\libpassport\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\49ded5abecc87bb1a06e9a176196551e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0743b15871e09352a0882f583088342e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\5357a65cbd7b238c3b6d0b9690aa10d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ca0c83d084aaad3c1bde053bdec7253b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\8a250e1a47c3a9974c163519b62dd587\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\88f4171ca140769c0ce170fd68410010\AndroidManifest.xml:2:1-11:12
+MERGED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:2:1-22:12
+MERGED from [:libepassport] C:\Users\User\.gradle\caches\transforms-1\files-1.1\libepassport.aar\d6b0279cb8dcc6c366fa1ce212abb91a\AndroidManifest.xml:2:1-9:12
+MERGED from [net.sf.scuba:scuba-sc-android:0.0.9] C:\Users\User\.gradle\caches\transforms-1\files-1.1\scuba-sc-android-0.0.9.aar\67d804c086d8e06d95c2992ae03aad7d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80c754f07d5255846b423b6f6f51ef13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\233bead25d4ead6d8890c4fc5f0eb639\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99e3f61006342f6cc7d43770725b5413\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7340d3325d8dd92589688c0f8a0c0660\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8d54e4b771a9ce30964d5cff36dce3be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c20c57825945f80ece86561c15fedc3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5b9ac024ed1268c57e3db3dabac6ee1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6b71658bf2b7254f05e88a761066067c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\858bafe166996a987e581ac04acd6da7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\87731dcdefe664ab6978392faf2d57d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7d45bdd752fc2986e8995a93764cd001\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c9971bad7c31db5866719d479604ab0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2cc6f8a8ab99bdad6acdf6976c5d6f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ba96b38adaed0263f7a4a4ab0b269849\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:1-101:12
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:1-101:12
+	package
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:3:5-34
+	android:versionName
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:1-101:12
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:1-101:12
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:12:5-67
+MERGED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.CPAYSDK_IC_MODULE
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CPAYSDK_SWIPE_MODULE
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CPAYSDK_RF_MODULE
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CPAYSDK_PRINTER_MODULE
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.NFC
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:13:5-62
+MERGED from [:libpassport] C:\Users\User\AndroidStudioProjects\TssDemoV2-master\libpassport\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-62
+MERGED from [:libpassport] C:\Users\User\AndroidStudioProjects\TssDemoV2-master\libpassport\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-62
+MERGED from [net.sf.scuba:scuba-sc-android:0.0.9] C:\Users\User\.gradle\caches\transforms-1\files-1.1\scuba-sc-android-0.0.9.aar\67d804c086d8e06d95c2992ae03aad7d\AndroidManifest.xml:11:5-62
+MERGED from [net.sf.scuba:scuba-sc-android:0.0.9] C:\Users\User\.gradle\caches\transforms-1\files-1.1\scuba-sc-android-0.0.9.aar\67d804c086d8e06d95c2992ae03aad7d\AndroidManifest.xml:11:5-62
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:13:22-59
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:14:22-78
+application
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:17:5-99:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\88f4171ca140769c0ce170fd68410010\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\88f4171ca140769c0ce170fd68410010\AndroidManifest.xml:9:5-20
+MERGED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:14:5-20:19
+MERGED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:14:5-20:19
+	android:supportsRtl
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:23:9-40
+activity#io.anyline.examples.IcCardInfoOnlyActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:24:19-57
+activity#io.anyline.examples.MainActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:29:27-74
+activity#io.anyline.examples.IcCardActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:32:19-49
+intent-filter#android.intent.action.ICCardActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.ICCardActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:34:17-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:34:25-76
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:36:27-73
+activity#io.anyline.examples.VisaActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:39:19-47
+intent-filter#android.intent.action.VisaActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.VisaActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:41:25-74
+activity#io.anyline.examples.MasterActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:46:9-52:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:46:19-49
+intent-filter#android.intent.action.MasterActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MasterActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:48:17-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:48:25-76
+activity#io.anyline.examples.ElevenActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:53:9-59:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:53:19-49
+intent-filter#android.intent.action.ElevenActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.ElevenActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:55:17-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:55:25-76
+activity#io.anyline.examples.PrintOnline
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:60:9-66:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:60:19-46
+intent-filter#android.intent.action.PrintOnline+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:61:13-65:29
+action#android.intent.action.PrintOnline
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:62:17-76
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:62:25-73
+activity#io.anyline.examples.UnionpayActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:67:9-73:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:67:19-51
+intent-filter#android.intent.action.UnionpayActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:68:13-72:29
+action#android.intent.action.UnionpayActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:69:17-81
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:69:25-78
+activity#io.anyline.examples.SwipeCardActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:74:9-80:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:74:19-52
+intent-filter#android.intent.action.SwipeCardActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:75:13-79:29
+action#android.intent.action.SwipeCardActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:76:17-82
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:76:25-79
+activity#io.anyline.examples.PassportReader
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:81:9-87:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:81:19-49
+intent-filter#android.intent.action.PassportReader+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:82:13-86:29
+action#android.intent.action.PassportReader
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:83:17-79
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:83:25-76
+activity#io.anyline.examples.MainICNopicActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:88:9-94:20
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:88:19-54
+intent-filter#android.intent.action.MainICNopicActivity+android.intent.category.DEFAULT
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:89:13-93:29
+action#android.intent.action.MainICNopicActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:90:17-84
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:90:25-81
+activity#io.anyline.examples.mrz.ScanMrzActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:95:9-57
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:95:19-54
+activity#io.anyline.examples.scanviewresult.ScanViewResultActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:96:9-75
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:96:19-72
+activity#io.anyline.examples.PassportActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:97:9-54
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:97:19-51
+activity#io.anyline.examples.PdfActivity
+ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:98:9-49
+	android:name
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml:98:19-46
+uses-sdk
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+MERGED from [:libpassport] C:\Users\User\AndroidStudioProjects\TssDemoV2-master\libpassport\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libpassport] C:\Users\User\AndroidStudioProjects\TssDemoV2-master\libpassport\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\49ded5abecc87bb1a06e9a176196551e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\preference-v14-27.1.1.aar\49ded5abecc87bb1a06e9a176196551e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0743b15871e09352a0882f583088342e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\0743b15871e09352a0882f583088342e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\5357a65cbd7b238c3b6d0b9690aa10d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\preference-v7-27.1.1.aar\5357a65cbd7b238c3b6d0b9690aa10d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ca0c83d084aaad3c1bde053bdec7253b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ca0c83d084aaad3c1bde053bdec7253b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\8a250e1a47c3a9974c163519b62dd587\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\multidex-1.0.1.aar\8a250e1a47c3a9974c163519b62dd587\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\88f4171ca140769c0ce170fd68410010\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\88f4171ca140769c0ce170fd68410010\AndroidManifest.xml:5:5-7:41
+MERGED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:8:5-10:41
+MERGED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:8:5-10:41
+MERGED from [:libepassport] C:\Users\User\.gradle\caches\transforms-1\files-1.1\libepassport.aar\d6b0279cb8dcc6c366fa1ce212abb91a\AndroidManifest.xml:5:5-7:41
+MERGED from [:libepassport] C:\Users\User\.gradle\caches\transforms-1\files-1.1\libepassport.aar\d6b0279cb8dcc6c366fa1ce212abb91a\AndroidManifest.xml:5:5-7:41
+MERGED from [net.sf.scuba:scuba-sc-android:0.0.9] C:\Users\User\.gradle\caches\transforms-1\files-1.1\scuba-sc-android-0.0.9.aar\67d804c086d8e06d95c2992ae03aad7d\AndroidManifest.xml:7:5-9:41
+MERGED from [net.sf.scuba:scuba-sc-android:0.0.9] C:\Users\User\.gradle\caches\transforms-1\files-1.1\scuba-sc-android-0.0.9.aar\67d804c086d8e06d95c2992ae03aad7d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80c754f07d5255846b423b6f6f51ef13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80c754f07d5255846b423b6f6f51ef13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\233bead25d4ead6d8890c4fc5f0eb639\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\233bead25d4ead6d8890c4fc5f0eb639\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99e3f61006342f6cc7d43770725b5413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99e3f61006342f6cc7d43770725b5413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7340d3325d8dd92589688c0f8a0c0660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\7340d3325d8dd92589688c0f8a0c0660\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8d54e4b771a9ce30964d5cff36dce3be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8d54e4b771a9ce30964d5cff36dce3be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c20c57825945f80ece86561c15fedc3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c20c57825945f80ece86561c15fedc3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5b9ac024ed1268c57e3db3dabac6ee1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5b9ac024ed1268c57e3db3dabac6ee1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6b71658bf2b7254f05e88a761066067c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\6b71658bf2b7254f05e88a761066067c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\858bafe166996a987e581ac04acd6da7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\858bafe166996a987e581ac04acd6da7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\87731dcdefe664ab6978392faf2d57d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\87731dcdefe664ab6978392faf2d57d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7d45bdd752fc2986e8995a93764cd001\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7d45bdd752fc2986e8995a93764cd001\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c9971bad7c31db5866719d479604ab0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2c9971bad7c31db5866719d479604ab0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2cc6f8a8ab99bdad6acdf6976c5d6f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e2cc6f8a8ab99bdad6acdf6976c5d6f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ba96b38adaed0263f7a4a4ab0b269849\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ba96b38adaed0263f7a4a4ab0b269849\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\AndroidStudioProjects\TssDemoV2-master\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:17:9-19:39
+	android:value
+		ADDED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from [io.anyline:anylinesdk:3.26.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\anylinesdk-3.26.0.aar\6d0619819e873a046740058b40321731\AndroidManifest.xml:18:13-70

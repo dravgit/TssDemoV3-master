@@ -1,0 +1,19 @@
+{
+    "comment": "Auto generated file. Manual changes will be overwritten.",
+    "immediateAssets": {
+        "anyline/module_anyline_ocr/anyline_austrian_driving_license.ale": "26786b02e3f839578179b5bd70deef91",
+        "anyline/module_anyline_ocr/anyline_ocr_auto.ale": "93cfd128f76889cf2d1048202bb48ff3",
+        "anyline/module_anyline_ocr/anyline_ocr_auto_any.ale": "471e67c87dd485eeaeb3cbedf37145d0",
+        "anyline/module_anyline_ocr/anyline_ocr_grid.ale": "38f653cd064039b92aa9aba53192c3f3",
+        "anyline/module_anyline_ocr/anyline_ocr_grid_any.ale": "e37a651b3e6062455932e1c9e78f802e",
+        "anyline/module_anyline_ocr/anyline_ocr_line.ale": "3d9cf1b308ca41c4eb87e097a38931f7",
+        "anyline/module_anyline_ocr/anyline_ocr_line_any.ale": "7d1c8495ce164b7ba6d47c5e5888d6b3",
+        "anyline/module_anyline_ocr/container_scanner.ale": "9d1da5e42ae52ff3837af368575841cc",
+        "anyline/module_anyline_ocr/trained_models/USNr.any": "b0ea75132fb647f375ff0d5a05c60093",
+        "anyline/module_anyline_ocr/trained_models/VIN.any": "8bf4a9635068a90037ddd50df0af3a20",
+        "anyline/module_anyline_ocr/vin.ale": "b1f23d67a5d99bf285d73ec78f55dfaa"
+    },
+    "lazyAssets": {
+        
+    }
+}

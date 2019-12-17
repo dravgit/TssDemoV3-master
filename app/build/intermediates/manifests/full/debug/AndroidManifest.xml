@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.anyline.examples"
+    android:versionCode="197"
+    android:versionName="3.26.0" >
+
+    <uses-sdk
+        android:minSdkVersion="22"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CPAYSDK_IC_MODULE" />
+    <uses-permission android:name="android.permission.CPAYSDK_SWIPE_MODULE" />
+    <uses-permission android:name="android.permission.CPAYSDK_RF_MODULE" />
+    <uses-permission android:name="android.permission.CPAYSDK_PRINTER_MODULE" />
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/tsslogo72"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="io.anyline.examples.IcCardInfoOnlyActivity" />
+        <activity android:name="io.anyline.examples.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.IcCardActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.ICCardActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.VisaActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VisaActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.MasterActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MasterActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.ElevenActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.ElevenActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.PrintOnline" >
+            <intent-filter>
+                <action android:name="android.intent.action.PrintOnline" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.UnionpayActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.UnionpayActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.SwipeCardActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.SwipeCardActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.PassportReader" >
+            <intent-filter>
+                <action android:name="android.intent.action.PassportReader" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.MainICNopicActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MainICNopicActivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="io.anyline.examples.mrz.ScanMrzActivity" />
+        <activity android:name="io.anyline.examples.scanviewresult.ScanViewResultActivity" />
+        <activity android:name="io.anyline.examples.PassportActivity" />
+        <activity android:name="io.anyline.examples.PdfActivity" />
+        <!-- https://developers.google.com/android/reference/com/google/android/gms/vision/package-summary#pipeline-lifecycle-in-an-activity -->
+        <meta-data
+            android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="barcode" />
+    </application>
+
+</manifest>
