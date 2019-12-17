@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TssDemoV2-master.iml" filepath="$PROJECT_DIR$/TssDemoV2-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libepassport/libepassport.iml" filepath="$PROJECT_DIR$/libepassport/libepassport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libpassport/libpassport.iml" filepath="$PROJECT_DIR$/libpassport/libpassport.iml" />
+    </modules>
+  </component>
+</project>
